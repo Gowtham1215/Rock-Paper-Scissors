@@ -14,8 +14,8 @@ To play the game, simply clone the repository and open the index.html file in a 
 
 bash
 ```
-git clone https://github.com/<username>/<repository>.git
-cd <repository>
+git clone https://github.com/Gowtham1215/Rock-Paper-Scissors
+cd Rock-Paper-Scissors
 
 ```
 
