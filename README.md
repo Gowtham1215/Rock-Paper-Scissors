@@ -9,7 +9,8 @@ Usage
 To play the game, simply clone the repository and open the index.html file in a web browser.
 
 bash
-Copy code
+
+Copy
 git clone https://github.com/<username>/<repository>.git
 cd <repository>
 Alternatively, you can copy and paste the HTML, CSS, and JavaScript code into new files and open them in a web browser.
