@@ -21,5 +21,6 @@ cd Rock-Paper-Scissors
 
 Alternatively, you can copy and paste the HTML, CSS, and JavaScript code into new files and open them in a web browser.
 
-Credits
+## Credits
+
 This game was created by Gowtham Raj.
